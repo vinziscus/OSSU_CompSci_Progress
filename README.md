@@ -11,6 +11,6 @@ This repository is used to show my progress in the OSSU Computer Science courses
 [Python for Everybody](https://www.py4e.com/lessons)
 
 | Start Date  | Finish Date | Total Hours | Notes | Anki File |
-| ------------- | ------------- | ----- | ---- |
+| ------------- | ------------- | ----- | ---- | --- |
 | 2022-10-01  | ...  | ... | Notion Link | ... |
 
