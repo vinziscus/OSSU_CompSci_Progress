@@ -4,6 +4,8 @@
 
 This repository is used to show my progress in the OSSU Computer Science courses'.
 
+Deadline: 12.08.2023
+
 
 # Intro CS
 ## Introduction to Programming
