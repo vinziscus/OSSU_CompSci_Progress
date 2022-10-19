@@ -17,3 +17,10 @@ Deadline: 12.08.2023
 | ------------- | ------------- | ----- | ---- | --- |
 | 2022-10-01  | 2022-10-19  | ca. 85hrs | ... | ... |
 
+
+
+[Introduction to Computer Science](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
+
+| Start Date  | Finish Date | Total Hours | Notes | Anki File |
+| ------------- | ------------- | ----- | ---- | --- |
+| 2022-10-19  | 2022-  | ca.  | ... | ... |
